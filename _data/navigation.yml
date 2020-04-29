@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
 
   - title: "Publications"
@@ -10,5 +10,5 @@ main:
     url: /sermons/    
 
   - title: "Studies"
-    url: /Studies/    
+    url: /studies/    
     
