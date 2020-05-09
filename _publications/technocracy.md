@@ -10,7 +10,6 @@ citation: 'Rabi Kashe (2020). &quot;The Technocratic Revolution&quot; <i>A co-op
 ---
 
 
-
 # The Technocratic Revolution
 A co-operative social design based upon educated agreements.
 
