@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/technocracy
 excerpt: 'A co-operative social design based upon educated agreements.'
 date: 2020-05-09
-venue: 'Independent'
+venue: 'Rabi@ofDestruction'
 paperurl: 'https://kashaiahyah85.github.io/files/technocracy.pdf'
 citation: 'Rabi Kashe (2020). &quot;The Technocratic Revolution&quot; <i>A co-operative social design based upon educated agreements</i>'
 ---
